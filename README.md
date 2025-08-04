@@ -1,4 +1,4 @@
-<!-- PROFESSIONAL HACKING/CODING GIF ABOVE HEADER (your provided GIF) -->
+<!-- Coding GIF Above Header -->
 <div align="center" style="margin-bottom: 18px;">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding at night animation" width="330" />
 </div>
@@ -9,7 +9,7 @@
   </h1>
 </div>
 
-<!-- INTRO SECTION (EXPANDED) -->
+<!-- INTRO SECTION -->
 <div align="center" style="margin-bottom: 24px;">
   <p style="font-size: 1.25rem;">
     <b>Cloud | Cybersecurity | Networking Enthusiast</b> <br>
@@ -46,16 +46,22 @@
   </p>
 </div>
 
-<!-- CONNECT -->
-<div align="center" style="margin-bottom: 24px;">
-  <h3>Connect with me</h3>
-  <a href="https://www.linkedin.com/in/pulasthi-ranabahu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<!-- CONNECT (Larger + Icon Buttons) -->
+<div align="center" style="margin-bottom: 36px;">
+  <h2 style="font-size:2.1rem;margin-bottom:18px;">
+    Connect with me
+  </h2>
+  <a href="https://www.linkedin.com/in/pulasthi-ranabahu/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" style="vertical-align:middle;margin-right:7px;"/>
+    <span style="background:#0077B5;color:#fff;padding:10px 26px;font-size:20px;border-radius:8px;font-weight:bold;vertical-align:middle;display:inline-block;margin-right:18px;">LinkedIn</span>
   </a>
-  <a href="https://twitter.com/Pulasthi_Ranaba">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/Pulasthi_Ranaba" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" style="vertical-align:middle;margin-right:7px;"/>
+    <span style="background:#1DA1F2;color:#fff;padding:10px 26px;font-size:20px;border-radius:8px;font-weight:bold;vertical-align:middle;display:inline-block;margin-right:18px;">Twitter</span>
   </a>
-  <a href="https://pulasthiranabahu.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=firefox&logoColor=orange" alt="Portfolio">
+  <a href="https://pulasthiranabahu.netlify.app/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/000000/firefox.png" width="40" style="vertical-align:middle;margin-right:7px;"/>
+    <span style="background:#212121;color:#fff;padding:10px 26px;font-size:20px;border-radius:8px;font-weight:bold;vertical-align:middle;display:inline-block;">Portfolio</span>
   </a>
 </div>
+
