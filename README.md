@@ -1,14 +1,11 @@
-<!-- Matrix SVG banner linking to Matrix YouTube explanation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<!-- PROFESSIONAL HACKING/CODING GIF ABOVE HEADER -->
+<!-- PROFESSIONAL HACKING/CODING GIF ABOVE HEADER (your provided GIF) -->
 <div align="center" style="margin-bottom: 18px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Professional coding animation" width="340" />
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding at night animation" width="330" />
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
-  <h1 style="color: #00FF41; font-family: 'JetBrains Mono', monospace; font-size: 3.5rem; text-shadow: 1px 1px 24px #082a13;">
-    Pulasthi Ranabahu
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=0FF41F&center=true&vCenter=true&width=450&lines=Pulasthi+Ranabahu" alt="Animated name" />
   </h1>
 </div>
 
