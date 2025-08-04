@@ -1,120 +1,105 @@
-<!-- HEADER -->
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Pulasthi%20Ranabahu&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn"
-  alt="header"/>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pulasthi Ranabahu | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
 
-<!-- INTRO -->
-<div align="center">
-  <h3>Hi there 👋 I'm <strong>Pulasthi Ranabahu</strong></h3>
-  <p>
-    🔐 BICT Undergraduate @ University of Kelaniya 🇱🇰 <br>
-    🖥️ Tech Enthusiast | Cybersecurity | Networking | Cloud | Dreamer 🚀<br>
-    📚 Always Learning | 📸 Creative | 🎯 Passionate
-  </p>
-</div>
+    section {
+      padding: 40px 20px;
+      text-align: center;
+    }
 
-<!-- STACK -->
-<div align="center" width="100">
-  <h1>Tech Stack</h1>
+    h2 {
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
 
-  <!-- Languages -->
-  </br>
-  <h3>Languages</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px" alt="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60px" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px" alt="TypeScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" alt="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" alt="HTML"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" alt="CSS"/>
+    h3 {
+      margin-top: 30px;
+      margin-bottom: 10px;
+    }
 
-  <!-- Frameworks & Tools -->
-  </br>
-  <h3>Frameworks & Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60px" alt="React"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60px" alt="Bootstrap"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" alt="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60px" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60px" alt="VSCode"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original-wordmark.svg" width="60px" alt="Supabase"/>
+    img {
+      margin: 10px;
+    }
 
-  <!-- Cloud | Cybersecurity | Networking -->
-  </br>
-  <h3>Cloud | Cybersecurity | Networking</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60px" alt="Azure"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60px" alt="GCP"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS"/>
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/60/000000/networking-manager.png" alt="Networking"/>
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/60/000000/security-checked.png" alt="Cybersecurity"/>
+    a img {
+      filter: grayscale(100%);
+      transition: 0.3s;
+    }
 
-  <!-- Databases -->
-  </br>
-  <h3>Databases</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px" alt="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60px" alt="Firebase"/>
-</div>
+    a img:hover {
+      filter: grayscale(0%);
+      transform: scale(1.1);
+    }
+  </style>
+</head>
+<body>
 
-</br></br>
+  <!-- Connect Section -->
+  <section id="connect">
+    <h2>💼 Let's Connect!</h2>
+    <p>Stay in touch and explore my work across platforms:</p>
+    <a href="https://www.linkedin.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30">
+    </a>
+    <a href="https://twitter.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30">
+    </a>
+    <a href="https://yourportfolio.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetarchive.svg" alt="Portfolio" width="30">
+    </a>
+  </section>
 
-<!-- STATS -->
-<div align="center" width="100">
-  <h1>📈 GitHub Stats</h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pulasthi-ranabahu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pulasthi-ranabahu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  </br>
-  <img src="https://github-profile-trophy.vercel.app/?username=pulasthi-ranabahu&theme=onestar&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophy"/>
-</div>
+  <!-- Tech Stack Section -->
+  <section id="tech-stack">
+    <h2>🚀 Tech Stack Overview</h2>
 
-</br>
+    <h3>🖥️ Languages</h3>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+    </div>
 
-<!-- SOCIALS -->
-<div align="center">
-  <h1>📲 Connect with me</h1>
-  <a href="https://www.linkedin.com/in/pulasthi-ranabahu/">
-    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Pulasthi_Ranaba">
-    <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://pulasthiranabahu.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=firefox" alt="Portfolio">
-  </a>
-</div>
+    <h3>🧰 Frameworks & Tools</h3>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+      <img src="f3fdcebe-696c-4ac8-851c-0b5ff58b71aa.png" height="40" alt="Supabase" />
+    </div>
 
-</br>
+    <h3>☁️ Cloud | 🔐 Cybersecurity | 🌐 Networking</h3>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
+      <img src="f9e9e8a0-138f-4e41-9cbb-583d43d79866.png" height="40" alt="AWS" />
+      <img src="https://www.svgrepo.com/show/154264/network-computer.svg" height="40" alt="Networking" />
+      <img src="https://www.svgrepo.com/show/377866/security-verification-protect-sheild-secure.svg" height="40" alt="Cybersecurity" />
+    </div>
 
-<!-- FOOTER -->
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=20&type=waving&fontColor=fefefe" alt="footer"/>
-</div>
+    <h3>🗄️ Databases</h3>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+    </div>
+  </section>
 
-<!--
-USED:
-- Markdown: https://github.github.com/gfm/
-- Icons: https://github.com/devicons/devicon
-- Header/Footer: https://github.com/kyechan99/capsule-render
-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats
-- GitHub Streak: https://github.com/denvercoder1/github-readme-streak-stats
-- GitHub Trophy: https://github.com/ryo-ma/github-profile-trophy
-- Shields: https://shields.io
-- Networking Icon: https://icons8.com/icons/set/networking
-- Security Icon: https://icons8.com/icons/set/security
--->
+</body>
+</html>
