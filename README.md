@@ -1,6 +1,6 @@
-<!-- MATRIX RAIN GIF ABOVE HEADER -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://i.gifer.com/7VE.gif" alt="Matrix rain animated background" width="700" />
+<!-- PROFESSIONAL HACKING/CODING GIF ABOVE HEADER -->
+<div align="center" style="margin-bottom: 18px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Professional coding animation" width="340" />
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
