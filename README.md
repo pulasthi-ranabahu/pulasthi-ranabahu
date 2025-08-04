@@ -1,29 +1,29 @@
-<!-- HEADER WITH GIF BACKGROUND -->
+<!-- HEADER WITH MATRIX RAIN GIF BACKGROUND -->
 <div align="center" style="position: relative; width: 100%; margin-bottom: 32px;">
   <div style="
-    background: url('https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif') center/cover no-repeat;
+    background: url('https://i.gifer.com/7VE.gif') center/cover no-repeat;
     background-size: cover;
     border-radius: 18px;
     width: 100%;
     max-width: 600px;
     height: 140px;
     margin: 0 auto;
-    box-shadow: 0 4px 18px rgba(0,0,0,0.12);
+    box-shadow: 0 4px 18px rgba(0,0,0,0.18);
     display: flex;
     align-items: center;
     justify-content: center;
     ">
     <h1 style="
-      color: #fff;
-      font-size: 2.8rem;
+      color: #00FF41;
+      font-size: 2.7rem;
       font-weight: bold;
-      text-shadow: 2px 2px 16px #002f49;
+      text-shadow: 1px 1px 24px #082a13;
       letter-spacing: 2px;
-      background: rgba(0,0,0,0.22);
+      background: rgba(0,0,0,0.36);
       padding: 20px 42px;
       border-radius: 12px;
       margin: 0;
-      font-family: 'Segoe UI', 'Arial', sans-serif;
+      font-family: 'JetBrains Mono', 'Fira Mono', 'Consolas', monospace;
       ">
       Pulasthi Ranabahu
     </h1>
@@ -32,7 +32,6 @@
 
 <!-- INTRO SECTION (COMPACT) -->
 <div align="center">
-
   <p>
     <b>Cloud | Cybersecurity | Networking Enthusiast</b><br>
     <i>BICT Undergraduate, University of Kelaniya 🇱🇰</i><br>
