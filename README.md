@@ -1,3 +1,6 @@
+<!-- Matrix SVG banner linking to Matrix YouTube explanation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 <!-- PROFESSIONAL HACKING/CODING GIF ABOVE HEADER -->
 <div align="center" style="margin-bottom: 18px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Professional coding animation" width="340" />
